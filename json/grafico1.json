@@ -1,0 +1,20 @@
+[
+  {
+    "COD_NIVEL": "1",
+    "NRO_CAP": "1",
+    "NRO_EXAM": "1",
+    "DESAPROBADO": "3",
+    "APROBADO": "1",
+    "REL_DESAPROBADO": "50.0",
+    "REL_APROBADO": "50.0",
+    "RANGO10": "3",
+    "RANGO11": "0",
+    "RANGO13": "0",
+    "RANGO20": "1",
+    "REL_RANGO10": "75.0",
+    "REL_RANGO11": "0.0",
+    "REL_RANGO13": "0.0",
+    "REL_RANGO20": "25.0"
+  }
+]
+
