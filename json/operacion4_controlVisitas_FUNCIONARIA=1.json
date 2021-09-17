@@ -20,6 +20,7 @@
       "RESULTADO": "INCOMPLETA",
       "FECHA_PROXIMA_VISITA": "2/06 - 21:00",
       "ESTADO_VISITA": "PENDIENTE"
+    },
     {
       "COD_SEDE": "11",
       "NOM_SEDE": "ICA",
@@ -96,7 +97,7 @@
       "CENTRO POBLADO": "1",
       "AREA": "1",
       "CONGLOMERADO": "0706301",
-      "NRO_VIVIENDA": "002,
+      "NRO_VIVIENDA": "002",
       "NRO_SELECCION": "0013",
       "VISITA_NRO": "3",
       "FECHA_VISITA": "2/06 - 15:26",
